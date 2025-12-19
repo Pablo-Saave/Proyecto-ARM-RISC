@@ -3,7 +3,7 @@
 
 ## Archivos
 - `Informe Arquitectura de computadores.pdf`: Documento técnico.
-- `Diapositivas.pdf`: Presentación resumen.
+- `Presentación.pdf`: Presentación resumen.
 - `src/`: Carpeta con los programas en ensamblador (`secuencial.asm` y `stride.asm`).
 
 ## Requisitos
